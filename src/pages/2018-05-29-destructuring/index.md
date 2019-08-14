@@ -6,5 +6,5 @@ tags: ['es6', 'destructuring']
 excerpt: "How it works !!"
 ---
 
-# ARRRROOOOOOOOO
+# ARRRROOOOOOOOOW Funnction!!!
 It was a clear black night, a clear white moon...
